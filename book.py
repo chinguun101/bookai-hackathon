@@ -22,7 +22,7 @@ def icon(emoji: str):
     )
 
 ##
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = 'YOUR_API_KEY' #Insert API
 groq_api_key = os.getenv('GROQ_API_KEY')
 client = Groq(api_key=groq_api_key)
 model = "mixtral-8x7b-32768"
