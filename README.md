@@ -14,3 +14,6 @@ To run this application:
 -  Additionally, set the `GROQ_API_KEY` as an environment variable to authenticate with the Groq API.
 -  and run `streamlit run book.py`
 -  After setting up, launch the Streamlit app, upload your book text, and start querying. The app supports dynamic model selection and token management, providing a seamless user experience for extracting information from large text documents.
+
+## Demo video
+https://youtu.be/mDIn5UKb_mE
